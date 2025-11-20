@@ -1,0 +1,3 @@
+tensorflow>=2.16.1
+keras>=3.0.0
+classification-models-3D (https://github.com/ZFTurbo/classification_models_3D/tree/master)
